@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Jan 05 20:51:29 2022
+Quartus Prime Version : 17.0.0 Build 595 04/25/2017 SJ Lite Edition
+Revision Name : uart_sdram_tft_sobel
+Top-level Entity Name : uart_sdram_tft_sobel
+Family : Cyclone IV E
+Total logic elements : 1,462
+    Total combinational functions : 1,204
+    Dedicated logic registers : 828
+Total registers : 828
+Total pins : 63
+Total virtual pins : 0
+Total memory bits : 22,224
+Embedded Multiplier 9-bit elements : 30
+Total PLLs : 1

@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Jan 05 14:09:27 2022
+Quartus Prime Version : 17.0.0 Build 595 04/25/2017 SJ Lite Edition
+Revision Name : ov5640_sdram_hdmi
+Top-level Entity Name : ov5640_sdram_hdmi
+Family : Cyclone IV E
+Device : EP4CE10F17C8
+Timing Models : Final
+Total logic elements : 1,359 / 10,320 ( 13 % )
+    Total combinational functions : 1,152 / 10,320 ( 11 % )
+    Dedicated logic registers : 865 / 10,320 ( 8 % )
+Total registers : 881
+Total pins : 65 / 180 ( 36 % )
+Total virtual pins : 0
+Total memory bits : 30,720 / 423,936 ( 7 % )
+Embedded Multiplier 9-bit elements : 0 / 46 ( 0 % )
+Total PLLs : 2 / 2 ( 100 % )

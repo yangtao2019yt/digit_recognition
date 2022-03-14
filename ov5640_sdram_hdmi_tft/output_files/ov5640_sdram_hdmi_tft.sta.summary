@@ -1,0 +1,257 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'sdram_control_top:sdram_control_top|sd_rd_req'
+Slack : -4.912
+TNS   : -72.856
+
+Type  : Slow 1200mV 85C Model Setup 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -3.701
+TNS   : -84.640
+
+Type  : Slow 1200mV 85C Model Setup 'camera_pclk'
+Slack : -3.298
+TNS   : -129.431
+
+Type  : Slow 1200mV 85C Model Setup 'pll_hdmi_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 2.997
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'pll_hdmi_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 12.199
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'pll_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 12.933
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'camera_pclk'
+Slack : 0.396
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'pll_hdmi_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.423
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.432
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'pll_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.452
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'pll_hdmi_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'sdram_control_top:sdram_control_top|sd_rd_req'
+Slack : 2.496
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'camera_pclk'
+Slack : -2.978
+TNS   : -67.118
+
+Type  : Slow 1200mV 85C Model Removal 'camera_pclk'
+Slack : 2.230
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'camera_pclk'
+Slack : -3.201
+TNS   : -142.063
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'sdram_control_top:sdram_control_top|sd_rd_req'
+Slack : 0.427
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'pll_hdmi_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 2.748
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 3.691
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'pll_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 9.718
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : 9.832
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'pll_hdmi_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 14.685
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'sdram_control_top:sdram_control_top|sd_rd_req'
+Slack : -5.092
+TNS   : -75.577
+
+Type  : Slow 1200mV 0C Model Setup 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -3.098
+TNS   : -70.162
+
+Type  : Slow 1200mV 0C Model Setup 'camera_pclk'
+Slack : -2.989
+TNS   : -117.525
+
+Type  : Slow 1200mV 0C Model Setup 'pll_hdmi_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 3.167
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'pll_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 13.293
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'pll_hdmi_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 13.898
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'camera_pclk'
+Slack : 0.376
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.381
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'pll_hdmi_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'pll_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.400
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'pll_hdmi_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.401
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'sdram_control_top:sdram_control_top|sd_rd_req'
+Slack : 2.380
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'camera_pclk'
+Slack : -3.029
+TNS   : -68.014
+
+Type  : Slow 1200mV 0C Model Removal 'camera_pclk'
+Slack : 2.043
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'camera_pclk'
+Slack : -3.201
+TNS   : -142.206
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'sdram_control_top:sdram_control_top|sd_rd_req'
+Slack : 0.262
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'pll_hdmi_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 2.748
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 3.667
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'pll_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 9.715
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : 9.835
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'pll_hdmi_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 14.703
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'sdram_control_top:sdram_control_top|sd_rd_req'
+Slack : -1.838
+TNS   : -25.568
+
+Type  : Fast 1200mV 0C Model Setup 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.769
+TNS   : -39.043
+
+Type  : Fast 1200mV 0C Model Setup 'camera_pclk'
+Slack : -0.794
+TNS   : -18.634
+
+Type  : Fast 1200mV 0C Model Setup 'pll_hdmi_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 4.674
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'pll_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 16.868
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'pll_hdmi_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 22.372
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'camera_pclk'
+Slack : 0.129
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'pll_hdmi_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.144
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.178
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'pll_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'pll_hdmi_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'sdram_control_top:sdram_control_top|sd_rd_req'
+Slack : 0.962
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'camera_pclk'
+Slack : -0.780
+TNS   : -17.255
+
+Type  : Fast 1200mV 0C Model Removal 'camera_pclk'
+Slack : 0.786
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'camera_pclk'
+Slack : -3.000
+TNS   : -111.368
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'sdram_control_top:sdram_control_top|sd_rd_req'
+Slack : 0.304
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'pll_hdmi_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 2.828
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 3.733
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : 9.423
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'pll_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 9.734
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'pll_hdmi_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 14.887
+TNS   : 0.000
+
+------------------------------------------------------------

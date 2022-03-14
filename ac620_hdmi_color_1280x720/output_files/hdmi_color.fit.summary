@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Jan 05 14:26:48 2022
+Quartus Prime Version : 17.0.0 Build 595 04/25/2017 SJ Lite Edition
+Revision Name : hdmi_color
+Top-level Entity Name : hdmi_color
+Family : Cyclone IV E
+Device : EP4CE10F17C8
+Timing Models : Final
+Total logic elements : 223 / 10,320 ( 2 % )
+    Total combinational functions : 211 / 10,320 ( 2 % )
+    Dedicated logic registers : 107 / 10,320 ( 1 % )
+Total registers : 123
+Total pins : 10 / 180 ( 6 % )
+Total virtual pins : 0
+Total memory bits : 0 / 423,936 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 46 ( 0 % )
+Total PLLs : 1 / 2 ( 50 % )

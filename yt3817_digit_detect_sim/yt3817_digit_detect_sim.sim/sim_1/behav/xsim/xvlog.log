@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Temp_desktop/EDA_design/project/yt3817_fig/yt3817_digit_detect/rtl/yt3817_BPPU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module yt3817_BPPU
+INFO: [VRFC 10-311] analyzing module yt3817_vibkill
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Temp_desktop/EDA_design/project/yt3817_fig/yt3817_digit_detect/rtl/tb_yt3817_BPPU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_yt3817_BPPU

@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../yt3817_digit_detect/rtl/yt3817_BPPU.v" \
+"../../../../../yt3817_digit_detect/rtl/tb_yt3817_BPPU.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

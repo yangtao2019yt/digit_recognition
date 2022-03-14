@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Jan 05 21:41:52 2022
+Quartus Prime Version : 17.0.0 Build 595 04/25/2017 SJ Lite Edition
+Revision Name : ov5640_sdram_hdmi_tft
+Top-level Entity Name : ov5640_sdram_hdmi_tft
+Family : Cyclone IV E
+Total logic elements : 1,618
+    Total combinational functions : 1,363
+    Dedicated logic registers : 880
+Total registers : 896
+Total pins : 86
+Total virtual pins : 0
+Total memory bits : 36,560
+Embedded Multiplier 9-bit elements : 30
+Total PLLs : 2

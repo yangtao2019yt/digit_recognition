@@ -1,0 +1,23 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto 986fa3f12d8140caa2a3cc5e4569b16c --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_yt3817_BPPU_behav xil_defaultlib.tb_yt3817_BPPU xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "D:/Temp_desktop/EDA_design/project/yt3817_fig/yt3817_digit_detect/rtl/yt3817_BPPU.v" Line 1. Module yt3817_BPPU doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Temp_desktop/EDA_design/project/yt3817_fig/yt3817_digit_detect/rtl/yt3817_BPPU.v" Line 258. Module yt3817_vibkill doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Temp_desktop/EDA_design/project/yt3817_fig/yt3817_digit_detect/rtl/yt3817_BPPU.v" Line 258. Module yt3817_vibkill doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Temp_desktop/EDA_design/project/yt3817_fig/yt3817_digit_detect/rtl/yt3817_BPPU.v" Line 258. Module yt3817_vibkill doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Temp_desktop/EDA_design/project/yt3817_fig/yt3817_digit_detect/rtl/yt3817_BPPU.v" Line 1. Module yt3817_BPPU doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Temp_desktop/EDA_design/project/yt3817_fig/yt3817_digit_detect/rtl/yt3817_BPPU.v" Line 258. Module yt3817_vibkill doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Temp_desktop/EDA_design/project/yt3817_fig/yt3817_digit_detect/rtl/yt3817_BPPU.v" Line 258. Module yt3817_vibkill doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Temp_desktop/EDA_design/project/yt3817_fig/yt3817_digit_detect/rtl/yt3817_BPPU.v" Line 258. Module yt3817_vibkill doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.yt3817_vibkill
+Compiling module xil_defaultlib.yt3817_BPPU
+Compiling module xil_defaultlib.tb_yt3817_BPPU
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_yt3817_BPPU_behav

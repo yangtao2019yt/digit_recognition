@@ -1,0 +1,1 @@
+Info (10281): Verilog HDL Declaration information at i2c_control.v(48): object "ack" differs only in case from object "ACK" in the same scope File: D:/Temp_desktop/EDA_design/project/yt3817_fig/ov5640_sdram_hdmi_1280x720/rtl/camera_init/i2c_control.v Line: 48

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_yt3817_BPPU_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_yt3817_BPPU" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="172600000001fs"></ZoomEndTime>
+      <Cursor1Time time="20001000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="285"></NameColumnWidth>
+      <ValueColumnWidth column_width="89"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/tb_yt3817_BPPU/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_yt3817_BPPU/arstn" type="logic">
+      <obj_property name="ElementShortName">arstn</obj_property>
+      <obj_property name="ObjectShortName">arstn</obj_property>
+   </wvobject>
+   <wvobject fp_name="group88" type="group">
+      <obj_property name="label">Flag</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="/tb_yt3817_BPPU/BPPU/blockline" type="logic">
+         <obj_property name="ElementShortName">blockline</obj_property>
+         <obj_property name="ObjectShortName">blockline</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_yt3817_BPPU/BPPU/x_withinblock" type="logic">
+         <obj_property name="ElementShortName">x_withinblock</obj_property>
+         <obj_property name="ObjectShortName">x_withinblock</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_yt3817_BPPU/BPPU/y_withinblock" type="logic">
+         <obj_property name="ElementShortName">y_withinblock</obj_property>
+         <obj_property name="ObjectShortName">y_withinblock</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_yt3817_BPPU/BPPU/detectline" type="logic">
+         <obj_property name="ElementShortName">detectline</obj_property>
+         <obj_property name="ObjectShortName">detectline</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_yt3817_BPPU/BPPU/x_line" type="logic">
+         <obj_property name="ElementShortName">x_line</obj_property>
+         <obj_property name="ObjectShortName">x_line</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_yt3817_BPPU/BPPU/y1_line" type="logic">
+         <obj_property name="ElementShortName">y1_line</obj_property>
+         <obj_property name="ObjectShortName">y1_line</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_yt3817_BPPU/BPPU/y2_line" type="logic">
+         <obj_property name="ElementShortName">y2_line</obj_property>
+         <obj_property name="ObjectShortName">y2_line</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_yt3817_BPPU/countdone" type="logic">
+         <obj_property name="ElementShortName">countdone</obj_property>
+         <obj_property name="ObjectShortName">countdone</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group92" type="group">
+      <obj_property name="label">xyData</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="/tb_yt3817_BPPU/bin_data" type="logic">
+         <obj_property name="ElementShortName">bin_data</obj_property>
+         <obj_property name="ObjectShortName">bin_data</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_yt3817_BPPU/BPPU/x_data_d" type="logic">
+         <obj_property name="ElementShortName">x_data_d</obj_property>
+         <obj_property name="ObjectShortName">x_data_d</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_yt3817_BPPU/BPPU/x_data" type="logic">
+         <obj_property name="ElementShortName">x_data</obj_property>
+         <obj_property name="ObjectShortName">x_data</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_yt3817_BPPU/BPPU/y1_data_d" type="logic">
+         <obj_property name="ElementShortName">y1_data_d</obj_property>
+         <obj_property name="ObjectShortName">y1_data_d</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_yt3817_BPPU/BPPU/y1_data" type="logic">
+         <obj_property name="ElementShortName">y1_data</obj_property>
+         <obj_property name="ObjectShortName">y1_data</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_yt3817_BPPU/BPPU/y2_data_d" type="logic">
+         <obj_property name="ElementShortName">y2_data_d</obj_property>
+         <obj_property name="ObjectShortName">y2_data_d</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_yt3817_BPPU/BPPU/y2_data" type="logic">
+         <obj_property name="ElementShortName">y2_data</obj_property>
+         <obj_property name="ObjectShortName">y2_data</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group89" type="group">
+      <obj_property name="label">Address</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/tb_yt3817_BPPU/H_Addr" type="array">
+         <obj_property name="ElementShortName">H_Addr[11:0]</obj_property>
+         <obj_property name="ObjectShortName">H_Addr[11:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_yt3817_BPPU/V_Addr" type="array">
+         <obj_property name="ElementShortName">V_Addr[11:0]</obj_property>
+         <obj_property name="ObjectShortName">V_Addr[11:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group90" type="group">
+      <obj_property name="label">Color</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/tb_yt3817_BPPU/red_8bits" type="array">
+         <obj_property name="ElementShortName">red_8bits[7:0]</obj_property>
+         <obj_property name="ObjectShortName">red_8bits[7:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_yt3817_BPPU/green_8bits" type="array">
+         <obj_property name="ElementShortName">green_8bits[7:0]</obj_property>
+         <obj_property name="ObjectShortName">green_8bits[7:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_yt3817_BPPU/blue_8bits" type="array">
+         <obj_property name="ElementShortName">blue_8bits[7:0]</obj_property>
+         <obj_property name="ObjectShortName">blue_8bits[7:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group91" type="group">
+      <obj_property name="label">Count</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="/tb_yt3817_BPPU/x_cnt" type="array">
+         <obj_property name="ElementShortName">x_cnt[1:0]</obj_property>
+         <obj_property name="ObjectShortName">x_cnt[1:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_yt3817_BPPU/y1_cnt" type="array">
+         <obj_property name="ElementShortName">y1_cnt[1:0]</obj_property>
+         <obj_property name="ObjectShortName">y1_cnt[1:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_yt3817_BPPU/y2_cnt" type="array">
+         <obj_property name="ElementShortName">y2_cnt[1:0]</obj_property>
+         <obj_property name="ObjectShortName">y2_cnt[1:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_yt3817_BPPU/BPPU/xx_cnt" type="array">
+         <obj_property name="ElementShortName">xx_cnt[31:0]</obj_property>
+         <obj_property name="ObjectShortName">xx_cnt[31:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_yt3817_BPPU/BPPU/yy1_cnt" type="array">
+         <obj_property name="ElementShortName">yy1_cnt[31:0]</obj_property>
+         <obj_property name="ObjectShortName">yy1_cnt[31:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_yt3817_BPPU/BPPU/yy2_cnt" type="array">
+         <obj_property name="ElementShortName">yy2_cnt[31:0]</obj_property>
+         <obj_property name="ObjectShortName">yy2_cnt[31:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_yt3817_BPPU/digitBCD" type="array">
+         <obj_property name="ElementShortName">digitBCD[3:0]</obj_property>
+         <obj_property name="ObjectShortName">digitBCD[3:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/tb_yt3817_BPPU/i" type="array">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_yt3817_BPPU/vx" type="array">
+      <obj_property name="ElementShortName">vx[31:0]</obj_property>
+      <obj_property name="ObjectShortName">vx[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_yt3817_BPPU/vy" type="array">
+      <obj_property name="ElementShortName">vy[31:0]</obj_property>
+      <obj_property name="ObjectShortName">vy[31:0]</obj_property>
+   </wvobject>
+</wave_config>
